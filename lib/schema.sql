@@ -15,8 +15,6 @@ CREATE TABLE authors (
   name TEXT
 );
 
-
-
 CREATE TABLE characters (
   id INTEGER PRIMARY KEY,
   name TEXT,
